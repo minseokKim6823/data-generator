@@ -1,0 +1,47 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.venv/
+venv/
+env/
+ENV/
+.ENV/
+
+# VSCode settings
+.vscode/
+
+# Mac OS
+.DS_Store
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# PyCharm settings
+.idea/
+
+# Logs and outputs
+*.log
+*.out
+
+# Python test cache
+.pytest_cache/
+
+# Build and distribution
+build/
+dist/
+*.egg-info/
+
+# Results and generated data
+result/
+*.png
+*.jpg
+*.jpeg
+*.txt
+
+# Optional: ignore dataset folders if generated
+dataset/
+data_generator/dataset/
+100000/
